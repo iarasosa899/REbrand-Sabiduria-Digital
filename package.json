@@ -1,0 +1,16 @@
+{
+  "name": "sabiduria-digital",
+  "version": "1.0.0",
+  "description": "Un sitio web para compartir conocimiento tecnológico.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.4"
+  }
+}
